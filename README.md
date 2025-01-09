@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Amlan! 👋</h1>
-A Team Lead, Software Application Support Engineer by profession. I like building fullstack Applications.
+A Software Developer from Assam, India. I build fullstack Applications.
 
 ## 🛠 Skills and Technologies
 
@@ -92,11 +92,6 @@ Email Me - imamlan04@gmail.com
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xArcheon&label=Profile%20views&color=0e75b6&style=flat" alt="0xArcheon" /> </p>
-
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=0XArcheon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 ---
 <p align="center">
